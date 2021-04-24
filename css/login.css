@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.upd1{
+    overflow: scroll;
+    height: 43vh;
+}
+body{
+    background-color: whitesmoke;
+}
+.foot{
+    background-color: black;
+    height: 6vh;
+    margin-top: 2px;
+}
+.foot p{
+    color: white;
+    text-align: center;
+}
+.logo img{
+    width: 15%;
+    border: 1px white;
+    border-radius: 20%;
+  margin-left: 18px;
+}
+.nav-list{
+    align-items: center;
+    display: flex;
+}
+.nav1{
+    display: flex;
+    padding-left: 400px;
+}
+.logo{
+    width: 20%;
+    
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    align-items: center;
+  justify-content: center;
+ background-color: black;
+}
+.navbar li{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 0px 20px;
+    
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 17px;
+    text-align: right;
+    color: white;
+}
+.nav1 li a:hover{
+    text-decoration: none;
+    color: greenyellow;
+}
+.nav1 li{
+    
+}
+.news{
+    text-align: center;
+    margin-top: 15px;
+    margin-top: 2px;
+    
+}
+.news1{
+    font-size: 18px;
+    margin-top: 12px;
+   
+}
+.lp{
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(138, 128, 128);
+    border-radius: 15px;
+}
+.welcome{
+    margin-top: 13px;
+    font-size: 34px;
+    margin-left: -4px;
+}
+
+.link1{
+    
+text-align: right;  
+     font-size: 25px;
+        
+    margin-top: -227px;
+
+        margin-right: 55px;
+    
+}
+.flag1{
+    align-items: center;
+    margin-bottom: -217px;
+    height: 150px;
+    width: 300px;
+    margin-left: 500px;
+}
+.flag{
+    align-items: center;
+}
+
+.link2 li{
+    margin-left: 948px;
+    margin-top: 26px;
+    height: 3px;
+    
+    margin-right: 18px;
+}
+.link2 li::marker{
+    display: none;
+    
+}
+.upd{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -32px;
+
+}
+.upd1 li{
+    margin-top: 40px;
+}
+.news{
+    background-color: orange;
+    height: 8vh;
+    
+}
+.login{
+    height: 53vh;
+    margin-top: 175px;
+    margin-left: 29px;
+}
+.form{
+    text-align: left;
+}
+.login1{
+    padding: 25px 0px;
+    margin-top: -351px;
+}
+.login1 input{
+    margin: 15px 0px;
+    border: 2px solid grey;
+    border-radius: 6px;
+    height: 40px;
+    font-size: 18px;
+   text-align: center;
+}
+.btn{
+    margin: 0px 10px;
+    padding: 2px;
+    color: black;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 65px;
+    height: 29px;
+}
+.btn2{
+    color: black;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 65px;
+    height: 29px;
+
+}
+.button{
+    margin-top: 7px;
+    margin-left: 9px;
+}
+.logt{
+    font-size: 25px;
+}
+.fp{
+    margin: 30px;
+}
+.updates{
+    margin-left: 35%;
+    width: 378px;
+    align-items: center;
+    text-align: center;
+    height: 60vh;
+}
+.about{
+    text-align: center;
+    margin-top: 20px;
+}
+.about p{
+    font-size: 30px;
+    
+}
+.feedback{
+    align-items: center;
+    text-align: center;
+}
+.feedback2{
+    margin-left: 250px;
+    margin-top: 23px;
+    align-items: center;
+    text-align: center;
+    width: 110vh;
+    border-radius: 15px;
+    height: 69px;
+}
+.feedback1{
+    margin-top: 250px;
+    text-align: center;
+    border-radius:  15px;
+    width: 20%;
+    height: 40px;
+    font-size: 15px;
+
+}
+.button1{
+    margin-top: -301px;
+    margin-left: 9px;
+}

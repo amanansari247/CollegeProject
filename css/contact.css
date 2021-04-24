@@ -1,0 +1,66 @@
+.contact{
+    background-color: whitesmoke;
+    height: 75vh;
+    font-size: 30px;
+
+}
+.text-center{
+    text-align: center;
+    padding: 30px;
+}
+.form{
+    max-width: 65%;
+    margin: 30px auto;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+    
+}
+.form input{
+    width: 100%;
+    font-size: 19px;
+    border: 2px solid grey;
+    border-radius: 6px;
+    margin: 18px 0px;
+    padding: 5px 3px;
+}
+.logo img{
+    width: 15%;
+    border: 1px white;
+    border-radius: 20%;
+  margin-left: 18px;
+}
+.nav-list{
+    align-items: center;
+    display: flex;
+}
+.nav1{
+    display: flex;
+    padding-left: 400px;
+}
+.logo{
+    width: 20%;
+    
+    align-items: center;
+    justify-content: center;
+}
+.navbar{
+    align-items: center;
+  justify-content: center;
+ background-color: black;
+}
+.navbar li{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 0px 30px;
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 17px;
+    text-align: right;
+    color: white;
+}
+.nav1 li a:hover{
+    text-decoration: none;
+    color: burlywood;
+}
